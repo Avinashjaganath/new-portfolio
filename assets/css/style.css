@@ -262,6 +262,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     left:  0;
     width: 109%;
     height:  100%;
+    border-radius:20px;
     background: rgba(31,44,108,.3);
 }
 .single-about-img img {
