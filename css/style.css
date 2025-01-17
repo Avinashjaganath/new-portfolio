@@ -314,7 +314,6 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 --------------------------------------*/
 
 .education {
-    background:  #f9fbfd;
     padding-top:  50px;
 }
 .education-horizontal-timeline {
@@ -671,7 +670,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
         11. Contact
 --------------------------------------*/
 .contact {
-    background: #f9fbfd;
     padding: 50px 0 100px;
 }
 .single-contact-box {padding-top: 100px;}
